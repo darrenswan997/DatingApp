@@ -55,3 +55,7 @@ C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\runtimes\win-x64\nati
 C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\Humanizer.dll
 C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\darre\Desktop\demo\DatingApp\api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
