@@ -1,0 +1,4 @@
+.dropdown-toggle, .dropdown-item, .dropdown-menu.mt-3.show {
+    cursor: pointer;
+    margin-left: 10px;
+}
