@@ -13,10 +13,10 @@ export class AppComponent implements OnInit{
   title = 'The Dating App';
   users: any;
 
-  constructor(private http: HttpClient, private accountService: AccountService) {}
+  constructor( private accountService: AccountService) {}
 
   ngOnInit() {
-    this.getUsers();
+
     this.setCurrentUser();
   }
 
@@ -25,11 +25,5 @@ export class AppComponent implements OnInit{
     this.accountService.setCurrentUser(user);
   }
 
-  getUsers(){
-    this.http.get('https://localhost:5001/api/users').subscribe(response => {
-      this.users = response;
-    }, error => {
-      console.log(error);
-    })
-  }
+
 }
